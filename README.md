@@ -70,7 +70,36 @@ Using the power budget equation and the parameters below, determine the attenuat
      - Q factor  
      - Eye diagram  
 
-2. Set the fiber length to **125% of the calculated pre-lab value** and repeat the simulation and data recording.  
+2. Set the fiber length to **125% of the calculated pre-lab value** and repeat the simulation and data recording.
+
+   ## TABULATION OF 10GB AND 2.5GB:
+![WhatsApp Image 2026-01-29 at 10 42 19 AM (1)](https://github.com/user-attachments/assets/724067a7-2b3d-4ca9-ad83-6677e5758c77)
+
+
+## GRAPH OF 10GB:
+HIGH NOISE:
+<img width="1919" height="1079" alt="Screenshot 2026-01-28 093125" src="https://github.com/user-attachments/assets/6277995e-fc24-4ee4-bc67-130ab317389c" />
+
+LOW NOISE:
+<img width="1919" height="1079" alt="Screenshot 2026-01-28 093444" src="https://github.com/user-attachments/assets/443f1db9-ee71-4fcd-9d91-efc6e46927a7" />
+
+
+## GRAPH OF 2.5GB:
+HIGH NOISE:
+<img width="1919" height="1079" alt="Screenshot 2026-01-28 093610" src="https://github.com/user-attachments/assets/037b86d9-c870-4726-9456-c5dea300f760" />
+
+LOW NOISE:
+<img width="1919" height="1079" alt="Screenshot 2026-01-28 093709" src="https://github.com/user-attachments/assets/49b590ce-a110-43d6-83be-96820b47685a" />
+
+
+
+
+
+## DESCRIPTION:
+Attenuation measurement at 2.5 Gbps and 10 Gbps evaluates the optical power loss in a fiber due to absorption, scattering, and connection losses. This measured attenuation determines the attenuation-limited fiber length, which is the maximum distance the signal can travel while still maintaining sufficient power at the receiver for reliable communication.
+
+ ## Result:
+ Thus the Experiment was succesfully completed and output is verified
 
 ---
 
